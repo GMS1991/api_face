@@ -231,3 +231,6 @@ C:\Users\allan\source\repos\GMS1991\api_face\Api_Face\obj\Debug\net6.0\ref\Api_F
 =======
 C:\Users\gmati\source\repos\Api_Face\Api_Face\obj\Debug\net6.0\Api_Face.sourcelink.json
 >>>>>>> d8a115dd5d6207f6c77eed13d71eb1fb7ba1100a
+C:\Users\gmati\source\repos\Api_Face\Api_Face\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gmati\source\repos\Api_Face\Api_Face\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gmati\source\repos\Api_Face\Api_Face\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
